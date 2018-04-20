@@ -1,1 +1,8 @@
-===================================== FILL YOUR EXPLANATION BELOW ===============================================================================
+===================================== FILL YOUR EXPLANATION BELOW =============================================================================
+
+first we read the file and extarct the words from file 
+using split( )
+then we can use natural language processing to categories 
+the words into clusters using Wordvector and skiplib
+
+
